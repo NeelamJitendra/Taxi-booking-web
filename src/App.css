@@ -1,0 +1,23 @@
+.wrapper {
+    padding: 20px;
+  }
+  
+  .form-wrapper {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    background-color: white;
+    margin: 20px;
+    max-width: 300px;
+    padding: 16px;
+  }
+
+  .text-field{
+    margin: 10px;
+    margin-left: 45px;
+  }
+
+  .heading {
+    text-align: center;
+  }
+  
